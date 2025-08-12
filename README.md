@@ -21,24 +21,7 @@ Syrax Z2 is a real-time web application designed for seamless and instant messag
 - **Real-time Communication:** Socket.io
 
 ## 📥 Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/tntashikrahman/syrax-z2.git
-   cd syrax-z2
-   ```
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-3. Set up environment variables in `.env` file.
-4. Start the backend server:
-   ```sh
-   npm run server
-   ```
-5. Start the frontend application:
-   ```sh
-   npm start
-   ```
+
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
