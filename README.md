@@ -20,7 +20,7 @@ Syrax Z2 is a real-time web application designed for seamless and instant messag
 - **Database:** MongoDB
 - **Real-time Communication:** Socket.io
 
-## 📥 Installation & Setup
+
 
 
 ## 📜 License
